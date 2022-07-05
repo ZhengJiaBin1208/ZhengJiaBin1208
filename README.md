@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:ethan4116@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-ethan4116@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:zhengjiabin@bestseller.com.cn"><img alt="Email" src="https://img.shields.io/badge/Email-zhengjiabin@bestseller.com.cn-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
