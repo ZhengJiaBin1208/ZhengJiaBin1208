@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2> Hey there! I'm 郑加彬</h2>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengJiaBin1208&theme=tokyonight"&line_height=27">
-</p>
+
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ZhengJiaBin1208&theme=redical">
@@ -49,7 +46,10 @@ Here are some ideas to get you started:
 ### ⭐️ &nbsp;Github Star
 
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true"/>
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengJiaBin1208&theme=tokyonight"&line_height=27">
+</p>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
