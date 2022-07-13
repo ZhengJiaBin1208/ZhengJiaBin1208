@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Hey there! I'm 郑加彬</h2>
-
-
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ZhengJiaBin1208&theme=redical">
-</p>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 - 🔭 &nbsp; 大家好，我是郑加彬。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
@@ -36,6 +28,14 @@ Here are some ideas to get you started:
   <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=ZhengJiaBin1208&theme=tokyonight" width="50%" >
 </p>
 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ZhengJiaBin1208&theme=redical">
+</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+
+
 <br><br><br><br>
 <p align = "center" >
   <img src = "https://komarev.com/ghpvc/?username=jingwzeng" >
@@ -45,11 +45,12 @@ Here are some ideas to get you started:
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true"/>
+<!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true"/> -->
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengJiaBin1208&theme=tokyonight"&line_height=27">
 </p>
+                                                                                                                              
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
