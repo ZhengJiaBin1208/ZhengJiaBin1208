@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<pre>
 <h2> Hey there! I'm 郑加彬</h2>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jingwzeng&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jingwzeng&theme=tokyonight"&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZhengJiaBin1208&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ZhengJiaBin1208&theme=tokyonight"&line_height=27">
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=jingwzeng&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=ZhengJiaBin1208&theme=redical">
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -36,17 +35,15 @@ Here are some ideas to get you started:
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
 
 <p align = "center">
-  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=jingwzeng&theme=tokyonight" width="45%">
-  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=jingwzeng&theme=tokyonight" width="50%" >
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=ZhengJiaBin1208&theme=tokyonight" width="45%">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=ZhengJiaBin1208&theme=tokyonight" width="50%" >
 </p>
 
 <br><br><br><br>
 <p align = "center" >
   <img src = "https://komarev.com/ghpvc/?username=jingwzeng" >
 </p>
-
-</pre> 
-
+                                                            
 <img width="100%" alt="game gif" src="./github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
