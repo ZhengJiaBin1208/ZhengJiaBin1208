@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
                                                                                                                                             
-<a href="mailto:zhengjiabin@bestseller.com.cn"><img alt="Email" src="https://img.shields.io/badge/Email-zhengjiabin@bestseller.com.cn-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:757511020@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-757511020@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
